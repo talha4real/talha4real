@@ -31,22 +31,22 @@
 
 ### Languages and Tools: 
 <p>
- I'm specializing in:
-- Node, python for apis and backend developement
-- HTML/HTML5, CSS/CSS3/Sass/SCSS, ES5/ES6, Javascript, Typescript
-- React.js, React Hooks, React Context
-- Next.js, Gatsby, SSR, SSG, SEO, Jamstack
-- Material UI, Bootstrap, Tailwind CSS, Ant Design, Semantic UI, Styled Components
-- Rest API, GraphQL, API Integration
-- Auth0/OAuth2/JWT/AWS Cognito
-- Git, SVN, Github, Trello
-- Vercel, Firebase, Heroku, GCP, Netlify, DigitalOcean, AWS Amplify
-- Jest, Cypress, Mocha for unit test
-- PSD, XD, InVision, Figma, Zeplin
-
-I have solutions to all your software related problems..
-Clean code and meeting deadline is my strength!
-Looking forward to interviewing with you.
+ I'm specializing in: <br/>
+- Node, python for apis and backend developement <br/>
+- HTML/HTML5, CSS/CSS3/Sass/SCSS, ES5/ES6, Javascript, Typescript <br/>
+- React.js, React Hooks, React Context <br/>
+- Next.js, Gatsby, SSR, SSG, SEO, Jamstack <br/>
+- Material UI, Bootstrap, Tailwind CSS, Ant Design, Semantic UI, Styled Components <br/>
+- Rest API, GraphQL, API Integration <br/>
+- Auth0/OAuth2/JWT/AWS Cognito <br/>
+- Git, SVN, Github, Trello <br/>
+- Vercel, Firebase, Heroku, GCP, Netlify, DigitalOcean, AWS Amplify <br/>
+- Jest, Cypress, Mocha for unit test <br/>
+- PSD, XD, InVision, Figma, Zeplin <br/>
+<br/>
+I have solutions to all your software related problems.. <br/>
+Clean code and meeting deadline is my strength! <br/>
+Looking forward to interviewing with you. <br/>
  </>
 
 <br>
