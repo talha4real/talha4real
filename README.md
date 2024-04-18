@@ -5,6 +5,7 @@
 <a href="mailto:talhabutt993@gmail.com?subject=Hola%20Talha"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
+CHECKOUT MY PORTFOLIO: <a href="https://www.talha4real.com/">Portfolio</a>
 
 ### Languages and Tools: 
 <p>
