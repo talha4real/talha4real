@@ -9,17 +9,16 @@
 ### Languages and Tools: 
 <p>
  I'm specializing in: <br/>
-- Node, python for apis and backend developement <br/>
+- Node, Python, Go, Java, C/C++, C#, Java <br/>
 - HTML/HTML5, CSS/CSS3/Sass/SCSS, ES5/ES6, Javascript, Typescript <br/>
-- React.js, React Hooks, React Context <br/>
-- Next.js, Gatsby, SSR, SSG, SEO, Jamstack <br/>
+- React.js<br/>
+- Next.js <br/>
 - Material UI, Bootstrap, Tailwind CSS, Ant Design, Semantic UI, Styled Components <br/>
 - Rest API, GraphQL, API Integration <br/>
 - Auth0/OAuth2/JWT/AWS Cognito <br/>
 - Git, SVN, Github, Trello <br/>
-- Vercel, Firebase, Heroku, GCP, Netlify, DigitalOcean, AWS Amplify <br/>
+- Vercel, Firebase, Cloudflare, Heroku, GCP, Netlify, DigitalOcean, AWS Amplify <br/>
 - Jest, Cypress, Mocha for unit test <br/>
-- PSD, XD, InVision, Figma, Zeplin <br/>
 <br/>
 I have solutions to all your software related problems.. <br/>
 Clean code and meeting deadline is my strength! <br/>
